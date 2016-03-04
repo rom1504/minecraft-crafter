@@ -5,6 +5,8 @@
 
 Tells you how to get any item by crafting in minecraft
 
+Demo at there [web-minecraft-crafter](http://rom1504.github.io/web-minecraft-crafter/)
+
 ## Example
 
 ```js
