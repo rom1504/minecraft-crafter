@@ -1,6 +1,6 @@
 {
   "name": "minecraft-crafter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Tells you how to get any item by crafting in minecraft",
   "main": "index.js",
   "tonicExampleFilename": "example.js",
