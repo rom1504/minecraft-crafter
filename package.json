@@ -12,6 +12,9 @@
     "type": "git",
     "url": "git+https://github.com/rom1504/minecraft-crafter.git"
   },
+  "engines": {
+    "node": ">=5"
+  },
   "keywords": [
     "minecraft",
     "craft"
