@@ -1,0 +1,32 @@
+{
+  "name": "minecraft-crafter",
+  "version": "1.0.0",
+  "description": "Tells you how to get any item by crafting in minecraft",
+  "main": "index.js",
+  "tonicExampleFilename": "example.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepublish": "require-self"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rom1504/minecraft-crafter.git"
+  },
+  "keywords": [
+    "minecraft",
+    "craft"
+  ],
+  "author": "Romain Beaumont <romain.rom1@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rom1504/minecraft-crafter/issues"
+  },
+  "homepage": "https://github.com/rom1504/minecraft-crafter#readme",
+  "dependencies": {
+    "minecraft-data": "^1.2.5",
+    "prismarine-recipe": "^1.0.0"
+  },
+  "devDependencies": {
+    "require-self": "^0.1.0"
+  }
+}
