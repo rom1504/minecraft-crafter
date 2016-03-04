@@ -5,7 +5,7 @@
   "main": "index.js",
   "tonicExampleFilename": "example.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "mocha",
     "prepublish": "require-self"
   },
   "repository": {
@@ -30,6 +30,7 @@
     "prismarine-recipe": "^1.0.0"
   },
   "devDependencies": {
+    "mocha": "^2.4.5",
     "require-self": "^0.1.0"
   }
 }
