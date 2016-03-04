@@ -1,5 +1,6 @@
 # minecraft-crafter
 [![NPM version](https://badge.fury.io/js/minecraft-crafter.svg)](http://badge.fury.io/js/minecraft-crafter)
+[![Build Status](https://img.shields.io/circleci/project/rom1504/minecraft-crafter/master.svg)](https://circleci.com/gh/rom1504/minecraft-crafter)
 [![Tonic](https://img.shields.io/badge/tonic-try%20it-blue.svg)](https://tonicdev.com/npm/minecraft-crafter)
 
 Tells you how to get any item by crafting in minecraft
