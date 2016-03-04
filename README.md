@@ -16,3 +16,6 @@ console.log(niceCraft(craft({id:findItemOrBlockByName("stone_pickaxe").id,count:
 
 Will output "Get 3 Cobblestone, 1 Wood then craft in order 4 Wood Planks, 4 Stick, 1 Stone Pickaxe"
 
+## Documentation
+
+ * See [doc/history.md](doc/history.md)
